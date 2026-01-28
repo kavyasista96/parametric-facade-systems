@@ -139,7 +139,7 @@ This project bridges my background in computational design (Grasshopper, Rhino) 
 ## 👤 Author
 
 **Kavya Sista**
-- Computational Designer & AI Engineer
+- Computational Designer & Architectural Designer
 - GitHub: [@kavyasista96](https://github.com/kavyasista96)
 - LinkedIn: [kavya-sista-600951154](https://linkedin.com/in/kavya-sista-600951154)
 
